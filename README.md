@@ -21,11 +21,11 @@ Quando alguém participa de um processo seletivo
   - mais alto no `trending topics`
 * O `ranking` de posicionamento também leva em conta o `fator de nível`
   - **Fator de nível** é quando o candidato tem a habilidade, mas...
-  - Qual o gau de conhecimento naquela habilidade
+  - Qual o grau de conhecimento naquela habilidade
   - Quem é melhor colocado?
     - Alguém que tem nível `mínimo` mas atende a todas as habilidade?
     - Ou, alguém que tem nível `máximo`, mas em uma única habilidade?
 * No processo de contratação podemos ter duas rodadas ou mais
   - Em uma primeira rodada temos o resultado de `tendências` e `classificação`
-  - Os candidatos podem observar as tendências e fazer um curso **E5R** relâmpado para se posicionar melhor na próxima rodada
+  - Os candidatos podem observar as tendências e fazer um curso **E5R** relâmpago para se posicionar melhor na próxima rodada
   - Os entrevistadores podem rever suas habilidades requeridas para avaliar mudanças em sua tecnologia
