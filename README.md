@@ -28,4 +28,4 @@ Quando alguém participa de um processo seletivo
 * No processo de contratação podemos ter duas rodadas ou mais
   - Em uma primeira rodada temos o resultado de `tendências` e `classificação`
   - Os candidatos podem observar as tendências e fazer um curso **E5R** relâmpago para se posicionar melhor na próxima rodada
-  - Os entrevistadores podem rever suas habilidades requeridas para avaliar mudanças em sua tecnologia
+  - Os entrevistadores podem rever suas habilidades requeridas para avaliar mudanças em seu arcabouço tecnológico
